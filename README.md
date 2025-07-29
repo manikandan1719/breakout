@@ -9,6 +9,9 @@ This is a modern web-based remake of the classic Breakout arcade game, built usi
 4.Simple UI with responsive controls
 5.Restartable gameplay loop
 
+
+
+
 🚀 Technologies Used:
 1.HTML5 Canvas for rendering the game graphics
 2.JavaScript for logic and interactivity
